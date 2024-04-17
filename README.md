@@ -5,7 +5,3 @@
 - project-101-snapshot.png
 
 - static-web
-
-- README.md
-
-- .gitignore
