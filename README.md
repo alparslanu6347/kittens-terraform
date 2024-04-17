@@ -1,5 +1,11 @@
 # kittens-terraform
-- resource_ec2-instance.tf
-- resource_security-group.tf
-- variables.tf
-- outputs.tf
+
+- main.tf
+
+- project-101-snapshot.png
+
+- static-web
+
+- README.md
+
+- .gitignore
