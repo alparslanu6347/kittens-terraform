@@ -1,4 +1,7 @@
 *.zip
 
+# Terraform
+**/.terraform/
 .terraform*
 terraform.tfstate*
+
